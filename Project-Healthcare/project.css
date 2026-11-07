@@ -4,17 +4,15 @@
         font-size: 200%;
         }
 
-
     .roc-image {
         width: 500px;
         height: auto;
         max-width: 100%
     }
-    
-    .equation mjx-container[display="true"] {
-    display: block;
-    text-align: center !important;
-    margin: 0 auto !important;
-    }
 
+.equation {
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 }
