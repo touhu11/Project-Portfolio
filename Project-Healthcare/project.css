@@ -10,6 +10,9 @@
         height: auto;
         max-width: 100%
     }
-
+    .equation{
+        text-align: center;
+        margin: 20px 0;
+    }
 }
 
